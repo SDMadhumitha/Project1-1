@@ -24,5 +24,8 @@ public static void main(String[] args) {
 	a.bA();
 	a.bBA();
 	a.ug("BCA");
+	
+	
+	System.out.println("done");
 }
 }
