@@ -25,10 +25,8 @@ public static void main(String[] args) {
 	a.bBA();
 	a.ug("BCA");
 	
-	
-	System.out.println("done");
+	System.out.println("Done");
 	System.out.println("123");
 	System.out.println("Bhava");
-
 }
 }
